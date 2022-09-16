@@ -1,0 +1,4 @@
+URL_BLAZE="wss://api-v2.blaze.com/replication/?EIO=3&transport=websocket"
+BASE_URL="https://blaze.com"
+BOT_TOKEN="5449069835:AAEQD2DldtBkbWsfSVHESmRs955Hr8koek8"
+ID_GROUP_MESSAGE="-1001711790574"
